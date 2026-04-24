@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# VS Code / IDE settings
+.vscode/
+
+# Build outputs (Eğer Tailwind derlemesini belli bir klasöre atıyorsan, örn: dist/)
+# dist/

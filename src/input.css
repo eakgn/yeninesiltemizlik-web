@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-navy: #001A4D; /* Daha derin, zengin bir lacivert */
+  --color-brand-cyan: #0891B2; /* Tailwind'in cyan-600'ü, daha tok ve kurumsal */
+  --color-brand-light: #F0F9FF; /* Beyaz yerine, okyanus esintili çok uçuk bir mavi (Arka planlar için) */
+  --color-brand-green: #2a9d8f;
+}
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+}
